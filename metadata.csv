@@ -1,0 +1,8 @@
+#NAME,age_group,country,healthy
+barcode01,young,Can,yes
+barcode02,young,Aus,yes
+barcode03,young,Aus,no
+barcode04,old,Aus,no
+barcode05,old,Can,no
+barcode06,old,Can,yes
+barcode07,old,Aus,no
